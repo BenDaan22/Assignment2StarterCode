@@ -1,4 +1,10 @@
 /*
+  Assignment 2 OOP
+  Author: Ben Joshua Daan
+  Date: January 13 2015
+*/
+
+/*
     DIT OOP Assignment 2 Starter Code
     =================================
     
